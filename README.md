@@ -1,2 +1,2 @@
 # DESCRIPTION-OF-PYTORCH-AS-A-FRAMEWORK
-Class Project for Academic Evaluation
+Project for Academic Evaluation
